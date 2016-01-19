@@ -45,18 +45,3 @@ local.properties
 # STS (Spring Tool Suite)
 .springBeans
 
-
-#####
-# laravel 5
-# https://github.com/github/gitignore/blob/master/Laravel.gitignore
-#####
-vendor/
-node_modules/
-
-# Laravel 5 & Lumen specific
-bootstrap/cache/
-storage/
-.env.*.php
-.env.php
-.env
-.env.example
